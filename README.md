@@ -1,12 +1,15 @@
 # LolMatchHist
-the repository for my iOS swift app displaying a summoners match history and details
+This is an iOS application to display a summoner's match history and detail from a game called [League Of Legends](https://play.na.leagueoflegends.com/en_US) using [Swift](https://developer.apple.com/swift/)
 
-Compatibly with iOS 8.4 and up, developed using Xcode 6.4
+Compatible with iOS 8.4 and up 
+Developed using Xcode 6.4
 
-Simple instructions:
+***Instructions:***
 
-Just import the repository and open up in xcode, run the project and type in a summoner name to look at their match history
+1. Clone the repository
+2. Open the file up in Xcode
+3. Run the project
+4. Type in a summoner name to look at their match history
 
-Can further look into their match details
+For example, try looking up 'zero and ten' and you can see DoubleLift's match history and details.
 
-try DoubleLift's ID 'zero and ten'
